@@ -1,0 +1,13 @@
+{
+   "localDriver":   "chrome",
+   "timeout":       "10",
+   "timeoutUnit":   "SECONDS",
+   "debug":         "false",
+   "chromeDriverLocation_windows":  "drivers//pc//chromedriver.exe",
+   "firefoxDriverLocation_windows": "drivers//pc//geckodriver.exe",
+   "IE11DriverLocation_windows":    "drivers//pc//IEDriverServer.exe",
+   "chromeDriverLocation_mac":      "drivers//mac//chromedriver",
+   "firefoxDriverLocation_mac":     "drivers//mac//geckodriver",
+   "chromeDriverLocation_linux":    "/home/rogerio/workspace/browser/chromedriver",
+   "firefoxDriverLocation_linux":   "drivers//linux//geckodriver"
+}
